@@ -1,4 +1,4 @@
-module github.com/luwa07832/feature-flag-service
+module github.com/xjs8sg98rz/srv-waypoint-mission
 
 go 1.26.0
 
